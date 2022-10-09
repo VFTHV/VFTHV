@@ -20,6 +20,10 @@
     <a href="https://www.linkedin.com/in/vadim-fthv/">![LinkedIn Logo](https://user-images.githubusercontent.com/101958139/189750228-d0c111e2-6d7f-4fe7-8bb2-   dbc13b28991e.png "LinkedIn")</a> 
   </li>
   <li>
+    </a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">![Bootstrap Logo](https://user-images.githubusercontent.com/101958139/189747538-27aaad23-7d60-4bee-8f4d-e06b5c6623ca.png "Bootstrap")
+</a>
+  </li>
+  <li>
     <a href="https://ynv-dev.com/">My Website</a>
   </li>
 </ul>

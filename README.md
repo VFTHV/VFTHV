@@ -13,10 +13,7 @@
 </a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">![Bootstrap Logo](https://user-images.githubusercontent.com/101958139/189747538-27aaad23-7d60-4bee-8f4d-e06b5c6623ca.png "Bootstrap")
 </a>
 
- <a href="https://en.wikipedia.org/wiki/TypeScript">
- ![TypeScript Logo](https://github.com/VFTHV/VFTHV/assets/101958139/8c25f667-ccc7-4cee-aab2-2108a859a941 "TypeScript")
-
-</a>
+ <a href="https://en.wikipedia.org/wiki/TypeScript">![TypeScript Logo](https://github.com/VFTHV/VFTHV/assets/101958139/8c25f667-ccc7-4cee-aab2-2108a859a941 "TypeScript")</a>
 
 ### Connect with me:
 

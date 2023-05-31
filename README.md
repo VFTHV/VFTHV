@@ -4,16 +4,16 @@
 
 ### My Skills:
 
-<a href="https://en.wikipedia.org/wiki/HTML">![HTML Logo](https://user-images.githubusercontent.com/101958139/189744187-0e10e001-00a4-4476-a2ed-5007a9355983.png 'HTML')
-
 <a href="https://en.wikipedia.org/wiki/HTML">![HTML Logo](./pics/50x50/HTML.png 'HTML')
-
-</a> <a href="https://en.wikipedia.org/wiki/CSS">![CSS Logo](https://user-images.githubusercontent.com/101958139/189744872-4eaea356-ba57-4892-9517-e01100f48e24.png 'CSS')
-</a> <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript Logo](https://user-images.githubusercontent.com/101958139/189745757-556dfa7f-4952-4f05-99f1-ebbb137869b4.png 'JavaScript')
-</a> <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">![ReactJS Logo](https://user-images.githubusercontent.com/101958139/189746358-8dba1997-3769-4d34-9e80-0eaf34862279.png 'ReactJS')
-</a> <a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">![Redux Logo](https://user-images.githubusercontent.com/101958139/189746829-ea9748c2-982e-4573-a768-cfa57dc41c41.png 'Redux')
-</a> <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">![SASS Logo](https://user-images.githubusercontent.com/101958139/189747241-7156fbb7-405e-4eb6-898a-c9914cb988f4.png 'SASS')
-</a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">![Bootstrap Logo](https://user-images.githubusercontent.com/101958139/189747538-27aaad23-7d60-4bee-8f4d-e06b5c6623ca.png 'Bootstrap')
+</a> <a href="https://en.wikipedia.org/wiki/CSS">![CSS Logo](./pics/50x50/CSS.png 'CSS')
+</a> <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript Logo](./pics/50x50/JS.png 'JavaScript')
+</a> <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">![ReactJS Logo](./pics/50x50/React.png 'ReactJS')
+</a> <a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">![Redux Logo](./pics/50x50/Redux.png 'Redux')
+</a> <a href="https://en.wikipedia.org/wiki/Node.js">![NodeJS Logo](./pics/50x50/node.png 'NodeJS')
+</a> <a href="https://en.wikipedia.org/wiki/Express.js">![ExpressJS Logo](./pics/50x50/express.png 'ExpressJS')
+</a> <a href="https://en.wikipedia.org/wiki/MongoDB">![MongoDB Logo](./pics/50x50/MongoDB.png 'MongoDB')
+</a> <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">![SASS Logo](./pics/50x50/SASS.png 'SASS')
+</a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">![Bootstrap Logo](./pics/50x50/Bootstrap.png 'Bootstrap')
 </a>
 
 <a href="https://en.wikipedia.org/wiki/TypeScript">![TypeScript Logo](https://github.com/VFTHV/VFTHV/assets/101958139/8c25f667-ccc7-4cee-aab2-2108a859a941 'TypeScript')</a>

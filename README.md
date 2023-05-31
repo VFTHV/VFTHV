@@ -8,6 +8,7 @@
 </a> <a href="https://en.wikipedia.org/wiki/CSS">![CSS Logo](./pics/50x50/CSS.png 'CSS')
 </a> <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript Logo](./pics/50x50/JS.png 'JavaScript')
 </a> <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">![ReactJS Logo](./pics/50x50/React.png 'ReactJS')
+</a> <a href="https://en.wikipedia.org/wiki/TypeScript">![TypeScript Logo](./pics/50x50/TS.png 'TypeScript')
 </a> <a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">![Redux Logo](./pics/50x50/Redux.png 'Redux')
 </a> <a href="https://en.wikipedia.org/wiki/Node.js">![NodeJS Logo](./pics/50x50/node.png 'NodeJS')
 </a> <a href="https://en.wikipedia.org/wiki/Express.js">![ExpressJS Logo](./pics/50x50/express.png 'ExpressJS')
@@ -15,8 +16,6 @@
 </a> <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">![SASS Logo](./pics/50x50/SASS.png 'SASS')
 </a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">![Bootstrap Logo](./pics/50x50/Bootstrap.png 'Bootstrap')
 </a>
-
-<a href="https://en.wikipedia.org/wiki/TypeScript">![TypeScript Logo](https://github.com/VFTHV/VFTHV/assets/101958139/8c25f667-ccc7-4cee-aab2-2108a859a941 'TypeScript')</a>
 
 ### Connect with me:
 

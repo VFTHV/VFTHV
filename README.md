@@ -1,6 +1,6 @@
 # Hello friend
 
-## My specialization: ReactJS + Redux
+## My specialization: ReactJS + Redux + TypeScript
 
 ### My Skills:
 
@@ -28,6 +28,6 @@
   </li>
 </ul>
 
-I never stop learning and perfecting my skills. My slogan is:
+I never stop learning and perfecting my skills
 
 ### Never give up trying!!! You have lost only when you've given up trying.

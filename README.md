@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/vadim-fthv/">My LinkedIn</a> 
   </li>
   <li>
-    <a href="https://ynv-dev.com/">My Website</a>
+    <a href="https://ynv-dev.netlify.app/">My Website</a>
   </li>
 </ul>
 

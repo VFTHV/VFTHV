@@ -1,6 +1,6 @@
 # Hello friend
 
-## My specialization: ReactJS + Redux + TypeScript
+## My specialization MERN (MongoDB, Express, React, Node)
 
 ### My Skills:
 

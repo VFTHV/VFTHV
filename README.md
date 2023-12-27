@@ -1,6 +1,6 @@
 # Hello friend
 
-## My specialization MERN (MongoDB, Express, React, Node)
+## My specialization is MERN (MongoDB, Express, React, Node)
 
 ### My Skills:
 

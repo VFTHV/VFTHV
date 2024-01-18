@@ -26,7 +26,6 @@
   <li>
     <a href="https://ynv-dev.netlify.app/">My Website</a>
   </li>
-  </li> -->
   <li>
     <a href="https://www.facebook.com/vadim.fthv">My Facebook</a>
   </li>

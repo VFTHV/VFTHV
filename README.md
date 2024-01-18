@@ -20,9 +20,9 @@
 ### Connect with me:
 
 <ul>
-  <li>
+<!--   <li>
     <a href="https://www.linkedin.com/in/vadim-fthv/">My LinkedIn</a> 
-  </li>
+  </li> -->
   <li>
     <a href="https://ynv-dev.netlify.app/">My Website</a>
   </li>

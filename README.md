@@ -26,6 +26,13 @@
   <li>
     <a href="https://ynv-dev.netlify.app/">My Website</a>
   </li>
+  </li> -->
+  <li>
+    <a href="https://www.facebook.com/vadim.fthv">My Facebook</a>
+  </li>
+  <li>
+    <a href="https://www.instagram.com/vadimfthv?igsh=MWlzaXhrbTZxanlkYg%3D%3D&utm_source=qr">My Instagram</a>
+  </li>
 </ul>
 
 I never stop learning and perfecting my skills

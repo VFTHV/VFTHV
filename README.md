@@ -1,6 +1,6 @@
 # Hello friend
 
-## My specialization is MERN (MongoDB, Express, React, Node)
+## I am a full-stack developer residing in the JavaScript world
 
 ### My Skills:
 
